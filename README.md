@@ -14,6 +14,8 @@ The Linux server instance choosed was Amazon Lightsail, with the following speci
 - SSH Port: 2200
 - Reviewer user: grader
 
+**IMPORTANT: This Linux server was deleted in 17/07/2019.**
+
 ## Server installation and configuration
 
 - Create AWS account [https://aws.amazon.com/](https://aws.amazon.com/);
