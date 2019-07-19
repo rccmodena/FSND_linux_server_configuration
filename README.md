@@ -1,3 +1,5 @@
+![Approved Image](https://rccmodena.github.io/FSND_build_a_portfolio_site/img/approved.png)
+
 # Project: Linux Server Configuration
 
 This is the sixth project of the Udacity's Full Stack Web Developers Nanodegree.
